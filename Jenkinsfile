@@ -18,7 +18,7 @@ pipeline {
             steps {
                 git branch: 'main',
                     credentialsId: 'github',
-                    url: ''
+                    url: 'https://github.com/BasavarajBagale/Basavaraj-portfolio.git'
             }
         }
 
