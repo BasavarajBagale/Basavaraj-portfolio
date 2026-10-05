@@ -1,0 +1,17 @@
+JDK Tool:
+jdk17
+
+NodeJS Tool:
+node18
+
+SonarQube Scanner:
+sonar-scanner
+
+SonarQube Server:
+sonar-server
+
+SonarQube Credential:
+Sonar-token
+
+Docker Hub Credential:
+docker
